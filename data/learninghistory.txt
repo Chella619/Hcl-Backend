@@ -1,0 +1,3244 @@
+﻿{
+	"root": {
+		"records": [
+			{
+
+				"found": "true",
+				"delegate_id": "AA761744DK",
+				"first_name": "Allan Rahbæk Rægaard",
+				"last_name": "Andreasen",
+				"records": [
+					{
+						"course_title": "Fire Awareness",
+						"course_code": "FAW",
+						"country": "Denmark",
+						"training_provider": "RelyOn Nutec",
+						"completed_on": "2019-11-27",
+						"valid_from": "2019-11-27",
+						"valid_until": "2021-11-27",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling",
+						"course_code": "MH",
+						"country": "Denmark",
+						"training_provider": "RelyOn Nutec",
+						"completed_on": "2019-11-27",
+						"valid_from": "2019-11-27",
+						"valid_until": "2021-11-27",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Sea Survival",
+						"course_code": "SS",
+						"country": "Denmark",
+						"training_provider": "RelyOn Nutec",
+						"completed_on": "2019-11-26",
+						"valid_from": "2019-11-26",
+						"valid_until": "2021-11-26",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights",
+						"course_code": "WAH",
+						"country": "Denmark",
+						"training_provider": "RelyOn Nutec",
+						"completed_on": "2019-12-03",
+						"valid_from": "2019-12-03",
+						"valid_until": "2021-12-03",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "First Aid",
+						"course_code": "FA",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2020-06-03",
+						"valid_from": "2020-06-03",
+						"valid_until": "2022-06-03",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Mechanical",
+						"course_code": "BTTM",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2020-03-24",
+						"valid_from": "2020-03-24",
+						"valid_until": "2120-03-24",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Electrical",
+						"course_code": "BTTE",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2020-03-25",
+						"valid_from": "2020-03-25",
+						"valid_until": "2120-03-25",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Hydraulics",
+						"course_code": "BTTH",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2020-03-26",
+						"valid_from": "2020-03-26",
+						"valid_until": "2120-03-26",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "AC815883DK",
+				"first_name": "Brian",
+				"last_name": "Torben Pedersen",
+				"records": []
+			},
+
+                       {
+				"found": "true",
+				"delegate_id": "AD816683DK",
+				"first_name": "Chris",
+				"last_name": "Torben",
+				"records": []
+			},
+			{
+				"found": "true",
+				"delegate_id": "AB810875DK",
+				"first_name": "Anders",
+				"last_name": "Brehm Pedersen",
+				"records": [
+					{
+						"course_title": "First Aid",
+						"course_code": "FA",
+						"country": "Denmark",
+						"training_provider": "International Wind Academy Lolland A/S",
+						"completed_on": "2019-09-04",
+						"valid_from": "2019-09-04",
+						"valid_until": "2021-09-04",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness",
+						"course_code": "FAW",
+						"country": "Denmark",
+						"training_provider": "International Wind Academy Lolland A/S",
+						"completed_on": "2019-09-02",
+						"valid_from": "2019-09-02",
+						"valid_until": "2021-09-02",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling",
+						"course_code": "MH",
+						"country": "Denmark",
+						"training_provider": "International Wind Academy Lolland A/S",
+						"completed_on": "2019-09-02",
+						"valid_from": "2019-09-02",
+						"valid_until": "2021-09-02",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights",
+						"course_code": "WAH",
+						"country": "Denmark",
+						"training_provider": "International Wind Academy Lolland A/S",
+						"completed_on": "2019-09-06",
+						"valid_from": "2019-09-06",
+						"valid_until": "2021-09-06",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Mechanical",
+						"course_code": "BTTM",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2019-08-20",
+						"valid_from": "2019-08-20",
+						"valid_until": "2119-08-20",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Electrical",
+						"course_code": "BTTE",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2019-08-22",
+						"valid_from": "2019-08-22",
+						"valid_until": "2119-08-22",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Hydraulics",
+						"course_code": "BTTH",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2019-08-23",
+						"valid_from": "2019-08-23",
+						"valid_until": "2119-08-23",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "AP261258IN",
+				"first_name": "AZMEER SABU",
+				"last_name": "P",
+				"records": [
+					{
+						"course_title": "First Aid Refresher",
+						"course_code": "FAR",
+						"country": "India",
+						"training_provider": "USHA FIRE SAFETY EQUIPMENT PVT LTD.",
+						"completed_on": "2018-11-12",
+						"valid_from": "2018-11-12",
+						"valid_until": "2020-11-12",
+						"previous_course_valid_until": "2020-11-11",
+						"status": "Extended refresher period"
+					},
+					{
+						"course_title": "Fire Awareness Refresher",
+						"course_code": "FAWR",
+						"country": "India",
+						"training_provider": "USHA FIRE SAFETY EQUIPMENT PVT LTD.",
+						"completed_on": "2018-11-13",
+						"valid_from": "2018-11-13",
+						"valid_until": "2020-11-13",
+						"previous_course_valid_until": "2020-11-12",
+						"status": "Extended refresher period"
+					},
+					{
+						"course_title": "Manual Handling Refresher",
+						"course_code": "MHR",
+						"country": "India",
+						"training_provider": "USHA FIRE SAFETY EQUIPMENT PVT LTD.",
+						"completed_on": "2018-11-13",
+						"valid_from": "2018-11-13",
+						"valid_until": "2020-11-14",
+						"previous_course_valid_until": "2018-11-13",
+						"status": "Extended refresher period"
+					},
+					{
+						"course_title": "Working at Heights",
+						"course_code": "WAH",
+						"country": "India",
+						"training_provider": "Vestas Wind Technology India Private Limited",
+						"completed_on": "2019-01-05",
+						"valid_from": "2019-01-05",
+						"valid_until": "2021-01-05",
+						"previous_course_valid_until": "",
+						"status": "Record will soon be invalid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "AR961984DK",
+				"first_name": "Andreas",
+				"last_name": "Reinholt Nielsen",
+				"records": [
+					{
+						"course_title": "First Aid",
+						"course_code": "FA",
+						"country": "Denmark",
+						"training_provider": "Global Wind Academy",
+						"completed_on": "2019-12-05",
+						"valid_from": "2019-12-05",
+						"valid_until": "2021-12-05",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness",
+						"course_code": "FAW",
+						"country": "Denmark",
+						"training_provider": "Global Wind Academy",
+						"completed_on": "2019-12-06",
+						"valid_from": "2019-12-06",
+						"valid_until": "2021-12-06",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling",
+						"course_code": "MH",
+						"country": "Denmark",
+						"training_provider": "Global Wind Academy",
+						"completed_on": "2019-12-06",
+						"valid_from": "2019-12-06",
+						"valid_until": "2021-12-06",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights",
+						"course_code": "WAH",
+						"country": "Denmark",
+						"training_provider": "Global Wind Academy",
+						"completed_on": "2019-12-04",
+						"valid_from": "2019-12-04",
+						"valid_until": "2021-12-04",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "AV540945RO",
+				"first_name": "Alexe",
+				"last_name": "Valentin-Ionut",
+				"records": [
+					{
+						"course_title": "First Aid Refresher",
+						"course_code": "FAR",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2019-01-10",
+						"valid_from": "2019-01-10",
+						"valid_until": "2021-01-13",
+						"previous_course_valid_until": "2019-01-12",
+						"status": "Record will soon be invalid"
+					},
+					{
+						"course_title": "Fire Awareness Refresher",
+						"course_code": "FAWR",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2019-01-09",
+						"valid_from": "2019-01-09",
+						"valid_until": "2021-01-12",
+						"previous_course_valid_until": "2019-01-11",
+						"status": "Record will soon be invalid"
+					},
+					{
+						"course_title": "Manual Handling Refresher",
+						"course_code": "MHR",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2019-01-09",
+						"valid_from": "2019-01-09",
+						"valid_until": "2021-01-16",
+						"previous_course_valid_until": "2019-01-15",
+						"status": "Record will soon be invalid"
+					},
+					{
+						"course_title": "Sea Survival",
+						"course_code": "SS",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2019-03-22",
+						"valid_from": "2019-03-22",
+						"valid_until": "2021-03-22",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights",
+						"course_code": "WAH",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2018-06-12",
+						"valid_from": "2018-06-12",
+						"valid_until": "2020-06-12",
+						"previous_course_valid_until": "",
+						"status": "Record is invalid"
+					},
+					{
+						"course_title": "Working at Heights Refresher",
+						"course_code": "WAHR",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2020-06-29",
+						"valid_from": "2020-06-13",
+						"valid_until": "2022-06-13",
+						"previous_course_valid_until": "2020-06-12",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Mechanical",
+						"course_code": "BTTM",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2020-08-07",
+						"valid_from": "2020-08-07",
+						"valid_until": "2120-08-07",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Electrical",
+						"course_code": "BTTE",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2020-08-04",
+						"valid_from": "2020-08-04",
+						"valid_until": "2120-08-04",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Hydraulics",
+						"course_code": "BTTH",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2020-08-05",
+						"valid_from": "2020-08-05",
+						"valid_until": "2120-08-05",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Advanced Rescue Training - Hub",
+						"course_code": "ART-H",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2020-09-30",
+						"valid_from": "2020-09-30",
+						"valid_until": "2022-09-30",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Singleton Advanced Rescue Training - Hub",
+						"course_code": "SART-H",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2020-09-30",
+						"valid_from": "2020-09-30",
+						"valid_until": "2120-09-30",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Advanced Rescue Training - Nacelle",
+						"course_code": "ART-N",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2020-09-30",
+						"valid_from": "2020-09-30",
+						"valid_until": "2022-09-30",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Singleton Advanced Rescue Training - Nacelle",
+						"course_code": "SART-N",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2020-09-30",
+						"valid_from": "2020-09-30",
+						"valid_until": "2120-09-30",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "BT796767NZ",
+				"first_name": "Benjamin",
+				"last_name": "Tilson",
+				"records": [
+					{
+						"course_title": "First Aid Refresher",
+						"course_code": "FAR",
+						"country": "New Zealand",
+						"training_provider": "Vertical Horizonz New Zealand Limited",
+						"completed_on": "2019-05-29",
+						"valid_from": "2019-05-29",
+						"valid_until": "2021-05-29",
+						"previous_course_valid_until": "2019-11-09",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness Refresher",
+						"course_code": "FAWR",
+						"country": "New Zealand",
+						"training_provider": "Vertical Horizonz New Zealand Limited",
+						"completed_on": "2019-05-27",
+						"valid_from": "2019-05-27",
+						"valid_until": "2021-05-27",
+						"previous_course_valid_until": "2019-11-10",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling Refresher",
+						"course_code": "MHR",
+						"country": "New Zealand",
+						"training_provider": "Vertical Horizonz New Zealand Limited",
+						"completed_on": "2019-05-27",
+						"valid_from": "2019-05-27",
+						"valid_until": "2021-05-27",
+						"previous_course_valid_until": "2019-11-08",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights Refresher",
+						"course_code": "WAHR",
+						"country": "New Zealand",
+						"training_provider": "Vertical Horizonz New Zealand Limited",
+						"completed_on": "2019-05-31",
+						"valid_from": "2019-05-31",
+						"valid_until": "2021-05-31",
+						"previous_course_valid_until": "2019-11-08",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "BW017901AU",
+				"first_name": "Brody Neville",
+				"last_name": "Wylie",
+				"records": [
+					{
+						"course_title": "First Aid",
+						"course_code": "FA",
+						"country": "Australia",
+						"training_provider": "Fire and Safety Australia",
+						"completed_on": "2020-03-10",
+						"valid_from": "2020-03-10",
+						"valid_until": "2022-03-10",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness",
+						"course_code": "FAW",
+						"country": "Australia",
+						"training_provider": "Fire and Safety Australia",
+						"completed_on": "2020-03-12",
+						"valid_from": "2020-03-12",
+						"valid_until": "2022-03-12",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling",
+						"course_code": "MH",
+						"country": "Australia",
+						"training_provider": "Fire and Safety Australia",
+						"completed_on": "2020-03-12",
+						"valid_from": "2020-03-12",
+						"valid_until": "2022-03-12",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights",
+						"course_code": "WAH",
+						"country": "Australia",
+						"training_provider": "Fire and Safety Australia",
+						"completed_on": "2020-03-13",
+						"valid_from": "2020-03-13",
+						"valid_until": "2022-03-13",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "CB257583RO",
+				"first_name": "Cristian Petrut",
+				"last_name": "Boiangiu",
+				"records": [
+					{
+						"course_title": "First Aid Refresher",
+						"course_code": "FAR",
+						"country": "Germany",
+						"training_provider": "3M  - Capital Safety Training Center - Fall Protection",
+						"completed_on": "2019-01-16",
+						"valid_from": "2019-01-16",
+						"valid_until": "2021-02-15",
+						"previous_course_valid_until": "2019-02-14",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness Refresher",
+						"course_code": "FAWR",
+						"country": "Germany",
+						"training_provider": "3M  - Capital Safety Training Center - Fall Protection",
+						"completed_on": "2019-01-17",
+						"valid_from": "2019-01-17",
+						"valid_until": "2021-02-16",
+						"previous_course_valid_until": "2019-02-15",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling Refresher",
+						"course_code": "MHR",
+						"country": "Germany",
+						"training_provider": "3M  - Capital Safety Training Center - Fall Protection",
+						"completed_on": "2019-01-17",
+						"valid_from": "2019-01-17",
+						"valid_until": "2021-02-16",
+						"previous_course_valid_until": "2019-02-15",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights Refresher",
+						"course_code": "WAHR",
+						"country": "Germany",
+						"training_provider": "3M  - Capital Safety Training Center - Fall Protection",
+						"completed_on": "2019-02-11",
+						"valid_from": "2019-02-11",
+						"valid_until": "2021-02-18",
+						"previous_course_valid_until": "2019-02-17",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "EE622365US",
+				"first_name": "Earl",
+				"last_name": "Elenbaas",
+				"records": [
+					{
+						"course_title": "First Aid",
+						"course_code": "FA",
+						"country": "United States of America",
+						"training_provider": "High Plains Technology  Center",
+						"completed_on": "2018-06-22",
+						"valid_from": "2018-06-22",
+						"valid_until": "2020-06-22",
+						"previous_course_valid_until": "",
+						"status": "Record is invalid"
+					},
+					{
+						"course_title": "Fire Awareness",
+						"course_code": "FAW",
+						"country": "United States of America",
+						"training_provider": "High Plains Technology  Center",
+						"completed_on": "2018-06-18",
+						"valid_from": "2018-06-18",
+						"valid_until": "2020-06-18",
+						"previous_course_valid_until": "",
+						"status": "Record is invalid"
+					},
+					{
+						"course_title": "Manual Handling",
+						"course_code": "MH",
+						"country": "United States of America",
+						"training_provider": "High Plains Technology  Center",
+						"completed_on": "2018-06-18",
+						"valid_from": "2018-06-18",
+						"valid_until": "2020-06-18",
+						"previous_course_valid_until": "",
+						"status": "Record is invalid"
+					},
+					{
+						"course_title": "Working at Heights",
+						"course_code": "WAH",
+						"country": "United States of America",
+						"training_provider": "High Plains Technology  Center",
+						"completed_on": "2018-06-20",
+						"valid_from": "2018-06-20",
+						"valid_until": "2020-06-20",
+						"previous_course_valid_until": "",
+						"status": "Record is invalid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "FD439264DK",
+				"first_name": "Fabrice",
+				"last_name": "Ducret",
+				"records": [
+					{
+						"course_title": "First Aid",
+						"course_code": "FA",
+						"country": "Denmark",
+						"training_provider": "Rescue Center Denmark",
+						"completed_on": "2020-01-16",
+						"valid_from": "2020-01-16",
+						"valid_until": "2022-01-16",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness",
+						"course_code": "FAW",
+						"country": "Denmark",
+						"training_provider": "Rescue Center Denmark",
+						"completed_on": "2020-01-17",
+						"valid_from": "2020-01-17",
+						"valid_until": "2022-01-17",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling",
+						"course_code": "MH",
+						"country": "Denmark",
+						"training_provider": "Rescue Center Denmark",
+						"completed_on": "2020-01-14",
+						"valid_from": "2020-01-14",
+						"valid_until": "2022-01-14",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights",
+						"course_code": "WAH",
+						"country": "Denmark",
+						"training_provider": "Rescue Center Denmark",
+						"completed_on": "2020-01-13",
+						"valid_from": "2020-01-13",
+						"valid_until": "2022-01-13",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "GE532447AU",
+				"first_name": "Graeme David",
+				"last_name": "Elias-Watson",
+				"records": [
+					{
+						"course_title": "First Aid",
+						"course_code": "FA",
+						"country": "Australia",
+						"training_provider": "Thomson Bridge Pty Ltd",
+						"completed_on": "2017-12-13",
+						"valid_from": "2017-12-13",
+						"valid_until": "2019-12-13",
+						"previous_course_valid_until": "",
+						"status": "Record is invalid"
+					},
+					{
+						"course_title": "Fire Awareness",
+						"course_code": "FAW",
+						"country": "Australia",
+						"training_provider": "Thomson Bridge Pty Ltd",
+						"completed_on": "2017-12-13",
+						"valid_from": "2017-12-13",
+						"valid_until": "2019-12-13",
+						"previous_course_valid_until": "",
+						"status": "Record is invalid"
+					},
+					{
+						"course_title": "Manual Handling",
+						"course_code": "MH",
+						"country": "Australia",
+						"training_provider": "Thomson Bridge Pty Ltd",
+						"completed_on": "2017-12-13",
+						"valid_from": "2017-12-13",
+						"valid_until": "2019-12-13",
+						"previous_course_valid_until": "",
+						"status": "Record is invalid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "GG103306RO",
+				"first_name": "Ghergu",
+				"last_name": "Gabriel Ionut",
+				"records": [
+					{
+						"course_title": "First Aid Refresher",
+						"course_code": "FAR",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2019-01-29",
+						"valid_from": "2019-01-29",
+						"valid_until": "2021-01-29",
+						"previous_course_valid_until": "2019-05-19",
+						"status": "Record will soon be invalid"
+					},
+					{
+						"course_title": "Fire Awareness Refresher",
+						"course_code": "FAWR",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2019-01-28",
+						"valid_from": "2019-01-28",
+						"valid_until": "2021-01-28",
+						"previous_course_valid_until": "2019-05-12",
+						"status": "Record will soon be invalid"
+					},
+					{
+						"course_title": "Manual Handling Refresher",
+						"course_code": "MHR",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2019-01-28",
+						"valid_from": "2019-01-28",
+						"valid_until": "2021-01-28",
+						"previous_course_valid_until": "2019-05-12",
+						"status": "Record will soon be invalid"
+					},
+					{
+						"course_title": "Sea Survival",
+						"course_code": "SS",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2019-10-03",
+						"valid_from": "2019-10-03",
+						"valid_until": "2021-10-03",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights Refresher",
+						"course_code": "WAHR",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2019-01-30",
+						"valid_from": "2019-01-30",
+						"valid_until": "2021-03-11",
+						"previous_course_valid_until": "2019-03-10",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Mechanical",
+						"course_code": "BTTM",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2020-08-07",
+						"valid_from": "2020-08-07",
+						"valid_until": "2120-08-07",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Electrical",
+						"course_code": "BTTE",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2020-08-04",
+						"valid_from": "2020-08-04",
+						"valid_until": "2120-08-04",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Hydraulics",
+						"course_code": "BTTH",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2020-08-05",
+						"valid_from": "2020-08-05",
+						"valid_until": "2120-08-05",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Advanced Rescue Training - Hub",
+						"course_code": "ART-H",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2020-09-30",
+						"valid_from": "2020-09-30",
+						"valid_until": "2022-09-30",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Singleton Advanced Rescue Training - Hub",
+						"course_code": "SART-H",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2020-09-30",
+						"valid_from": "2020-09-30",
+						"valid_until": "2120-09-30",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Advanced Rescue Training - Nacelle",
+						"course_code": "ART-N",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2020-09-30",
+						"valid_from": "2020-09-30",
+						"valid_until": "2022-09-30",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Singleton Advanced Rescue Training - Nacelle",
+						"course_code": "SART-N",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2020-09-30",
+						"valid_from": "2020-09-30",
+						"valid_until": "2120-09-30",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "GK081105TR",
+				"first_name": "GÖKHAN",
+				"last_name": "KAYHAN",
+				"records": [
+					{
+						"course_title": "First Aid",
+						"course_code": "FA",
+						"country": "Turkey",
+						"training_provider": "Mira Endustriyel Egitim Danismanlik Organizasyon",
+						"completed_on": "2020-03-03",
+						"valid_from": "2020-03-03",
+						"valid_until": "2022-03-03",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness",
+						"course_code": "FAW",
+						"country": "Turkey",
+						"training_provider": "Mira Endustriyel Egitim Danismanlik Organizasyon",
+						"completed_on": "2020-03-04",
+						"valid_from": "2020-03-04",
+						"valid_until": "2022-03-04",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling",
+						"course_code": "MH",
+						"country": "Turkey",
+						"training_provider": "Mira Endustriyel Egitim Danismanlik Organizasyon",
+						"completed_on": "2020-03-04",
+						"valid_from": "2020-03-04",
+						"valid_until": "2022-03-04",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights",
+						"course_code": "WAH",
+						"country": "Turkey",
+						"training_provider": "Mira Endustriyel Egitim Danismanlik Organizasyon",
+						"completed_on": "2020-03-06",
+						"valid_from": "2020-03-06",
+						"valid_until": "2022-03-06",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "IC692719NI",
+				"first_name": "Isaias Antonio",
+				"last_name": "Cruz Madriz",
+				"records": [
+					{
+						"course_title": "First Aid Refresher",
+						"course_code": "FAR",
+						"country": "Costa Rica",
+						"training_provider": "Total Health Safety Enviroment SL  - Costa Rica",
+						"completed_on": "2019-03-07",
+						"valid_from": "2019-03-07",
+						"valid_until": "2021-03-07",
+						"previous_course_valid_until": "2019-07-12",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness Refresher",
+						"course_code": "FAWR",
+						"country": "Costa Rica",
+						"training_provider": "Total Health Safety Enviroment SL  - Costa Rica",
+						"completed_on": "2019-03-08",
+						"valid_from": "2019-03-08",
+						"valid_until": "2021-03-08",
+						"previous_course_valid_until": "2019-07-10",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling Refresher",
+						"course_code": "MHR",
+						"country": "Costa Rica",
+						"training_provider": "Total Health Safety Enviroment SL  - Costa Rica",
+						"completed_on": "2019-03-08",
+						"valid_from": "2019-03-08",
+						"valid_until": "2021-03-08",
+						"previous_course_valid_until": "2019-07-10",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights Refresher",
+						"course_code": "WAHR",
+						"country": "Costa Rica",
+						"training_provider": "Total Health Safety Enviroment SL  - Costa Rica",
+						"completed_on": "2019-03-06",
+						"valid_from": "2019-03-06",
+						"valid_until": "2021-03-06",
+						"previous_course_valid_until": "2019-07-14",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "JB222686GB",
+				"first_name": "Jason",
+				"last_name": "Burns",
+				"records": [
+					{
+						"course_title": "First Aid Refresher",
+						"course_code": "FAR",
+						"country": "United Kingdom",
+						"training_provider": "Access Rescue Consulting at Height Ltd",
+						"completed_on": "2020-08-11",
+						"valid_from": "2020-06-16",
+						"valid_until": "2022-06-16",
+						"previous_course_valid_until": "2020-06-15",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness",
+						"course_code": "FAW",
+						"country": "United Kingdom",
+						"training_provider": "Access Rescue Consulting at Height Ltd",
+						"completed_on": "2020-08-12",
+						"valid_from": "2020-08-12",
+						"valid_until": "2022-08-12",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling",
+						"course_code": "MH",
+						"country": "United Kingdom",
+						"training_provider": "Access Rescue Consulting at Height Ltd",
+						"completed_on": "2020-08-12",
+						"valid_from": "2020-08-12",
+						"valid_until": "2022-08-12",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights Refresher",
+						"course_code": "WAHR",
+						"country": "United Kingdom",
+						"training_provider": "Access Rescue Consulting at Height Ltd",
+						"completed_on": "2020-08-13",
+						"valid_from": "2020-06-22",
+						"valid_until": "2022-06-22",
+						"previous_course_valid_until": "2020-06-21",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Advanced Rescue Training - Hub",
+						"course_code": "ART-H",
+						"country": "United Kingdom",
+						"training_provider": "Access Rescue Consulting at Height Ltd",
+						"completed_on": "2020-08-14",
+						"valid_from": "2020-08-14",
+						"valid_until": "2022-08-14",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "JB909829DK",
+				"first_name": "Jesper",
+				"last_name": "broberg lauridsen",
+				"records": [
+					{
+						"course_title": "Mechanical",
+						"course_code": "BTTM",
+						"country": "Denmark",
+						"training_provider": "Uddannelsescenter Holstebro",
+						"completed_on": "2019-04-05",
+						"valid_from": "2019-04-05",
+						"valid_until": "2119-04-05",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Electrical",
+						"course_code": "BTTE",
+						"country": "Denmark",
+						"training_provider": "Uddannelsescenter Holstebro",
+						"completed_on": "2019-04-05",
+						"valid_from": "2019-04-05",
+						"valid_until": "2119-04-05",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Hydraulics",
+						"course_code": "BTTH",
+						"country": "Denmark",
+						"training_provider": "Uddannelsescenter Holstebro",
+						"completed_on": "2019-04-05",
+						"valid_from": "2019-04-05",
+						"valid_until": "2119-04-05",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "First Aid",
+						"course_code": "FA",
+						"country": "Denmark",
+						"training_provider": "Global Wind Academy",
+						"completed_on": "2019-03-14",
+						"valid_from": "2019-03-14",
+						"valid_until": "2021-03-14",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "First Aid Refresher",
+						"course_code": "FAR",
+						"country": "Denmark",
+						"training_provider": "Global Wind Academy",
+						"completed_on": "2020-03-12",
+						"valid_from": "2020-03-12",
+						"valid_until": "2022-03-12",
+						"previous_course_valid_until": "2021-03-14",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness",
+						"course_code": "FAW",
+						"country": "Denmark",
+						"training_provider": "Global Wind Academy",
+						"completed_on": "2019-03-15",
+						"valid_from": "2019-03-15",
+						"valid_until": "2021-03-15",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling",
+						"course_code": "MH",
+						"country": "Denmark",
+						"training_provider": "Global Wind Academy",
+						"completed_on": "2019-03-15",
+						"valid_from": "2019-03-15",
+						"valid_until": "2021-03-15",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights",
+						"course_code": "WAH",
+						"country": "Denmark",
+						"training_provider": "Global Wind Academy",
+						"completed_on": "2019-03-13",
+						"valid_from": "2019-03-13",
+						"valid_until": "2021-03-13",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "JE083618GB",
+				"first_name": "Jason Stuart",
+				"last_name": "Edwards",
+				"records": [
+					{
+						"course_title": "First Aid Refresher",
+						"course_code": "FAR",
+						"country": "Denmark",
+						"training_provider": "Rescue Center Denmark",
+						"completed_on": "2020-07-29",
+						"valid_from": "2020-07-29",
+						"valid_until": "2022-07-29",
+						"previous_course_valid_until": "2020-12-14",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "First Aid",
+						"course_code": "FA",
+						"country": "Denmark",
+						"training_provider": "MARTEC",
+						"completed_on": "2018-12-14",
+						"valid_from": "2018-12-14",
+						"valid_until": "2020-12-14",
+						"previous_course_valid_until": "",
+						"status": "Record will soon be invalid"
+					},
+					{
+						"course_title": "Fire Awareness",
+						"course_code": "FAW",
+						"country": "Denmark",
+						"training_provider": "MARTEC",
+						"completed_on": "2018-12-10",
+						"valid_from": "2018-12-10",
+						"valid_until": "2020-12-10",
+						"previous_course_valid_until": "",
+						"status": "Record will soon be invalid"
+					},
+					{
+						"course_title": "Manual Handling",
+						"course_code": "MH",
+						"country": "Denmark",
+						"training_provider": "MARTEC",
+						"completed_on": "2018-12-10",
+						"valid_from": "2018-12-10",
+						"valid_until": "2020-12-10",
+						"previous_course_valid_until": "",
+						"status": "Record will soon be invalid"
+					},
+					{
+						"course_title": "Sea Survival",
+						"course_code": "SS",
+						"country": "Denmark",
+						"training_provider": "MARTEC",
+						"completed_on": "2018-12-18",
+						"valid_from": "2018-12-18",
+						"valid_until": "2020-12-18",
+						"previous_course_valid_until": "",
+						"status": "Record will soon be invalid"
+					},
+					{
+						"course_title": "Working at Heights",
+						"course_code": "WAH",
+						"country": "Denmark",
+						"training_provider": "MARTEC",
+						"completed_on": "2018-12-12",
+						"valid_from": "2018-12-12",
+						"valid_until": "2020-12-12",
+						"previous_course_valid_until": "",
+						"status": "Record will soon be invalid"
+					},
+					{
+						"course_title": "Mechanical",
+						"course_code": "BTTM",
+						"country": "Denmark",
+						"training_provider": "Uddannelsescenter Holstebro",
+						"completed_on": "2020-02-21",
+						"valid_from": "2020-02-21",
+						"valid_until": "2120-02-21",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Electrical",
+						"course_code": "BTTE",
+						"country": "Denmark",
+						"training_provider": "Uddannelsescenter Holstebro",
+						"completed_on": "2020-02-21",
+						"valid_from": "2020-02-21",
+						"valid_until": "2120-02-21",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Hydraulics",
+						"course_code": "BTTH",
+						"country": "Denmark",
+						"training_provider": "Uddannelsescenter Holstebro",
+						"completed_on": "2020-02-21",
+						"valid_from": "2020-02-21",
+						"valid_until": "2120-02-21",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "JH054040GB",
+				"first_name": "John C",
+				"last_name": "Hanlon",
+				"records": [
+					{
+						"course_title": "Working at Heights",
+						"course_code": "WAH",
+						"country": "United Kingdom",
+						"training_provider": "Maersk Training UK Ltd",
+						"completed_on": "2020-09-03",
+						"valid_from": "2020-09-03",
+						"valid_until": "2022-09-03",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "First Aid",
+						"course_code": "FA",
+						"country": "United Kingdom",
+						"training_provider": "Maersk Training UK Ltd",
+						"completed_on": "2020-09-02",
+						"valid_from": "2020-09-02",
+						"valid_until": "2022-09-02",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness",
+						"course_code": "FAW",
+						"country": "United Kingdom",
+						"training_provider": "Maersk Training UK Ltd",
+						"completed_on": "2020-09-01",
+						"valid_from": "2020-09-01",
+						"valid_until": "2022-09-01",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling",
+						"course_code": "MH",
+						"country": "United Kingdom",
+						"training_provider": "Maersk Training UK Ltd",
+						"completed_on": "2020-09-03",
+						"valid_from": "2020-09-03",
+						"valid_until": "2022-09-03",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling Refresher",
+						"course_code": "MHR",
+						"country": "United Kingdom",
+						"training_provider": "Capital Safety Group (Northern Europe) Ltd",
+						"completed_on": "2018-06-19",
+						"valid_from": "2018-06-19",
+						"valid_until": "2020-06-21",
+						"previous_course_valid_until": "2018-06-20",
+						"status": "Record is invalid"
+					},
+					{
+						"course_title": "Fire Awareness Refresher",
+						"course_code": "FAWR",
+						"country": "United Kingdom",
+						"training_provider": "Capital Safety Group (Northern Europe) Ltd",
+						"completed_on": "2018-06-19",
+						"valid_from": "2018-06-19",
+						"valid_until": "2020-06-21",
+						"previous_course_valid_until": "2018-06-20",
+						"status": "Record is invalid"
+					},
+					{
+						"course_title": "First Aid Refresher",
+						"course_code": "FAR",
+						"country": "United Kingdom",
+						"training_provider": "Capital Safety Group (Northern Europe) Ltd",
+						"completed_on": "2018-06-18",
+						"valid_from": "2018-06-18",
+						"valid_until": "2020-06-21",
+						"previous_course_valid_until": "2018-06-20",
+						"status": "Record is invalid"
+					},
+					{
+						"course_title": "Working at Heights Refresher",
+						"course_code": "WAHR",
+						"country": "United Kingdom",
+						"training_provider": "Capital Safety Group (Northern Europe) Ltd",
+						"completed_on": "2018-06-20",
+						"valid_from": "2018-06-20",
+						"valid_until": "2020-06-22",
+						"previous_course_valid_until": "2018-06-21",
+						"status": "Record is invalid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "JJ097003DK",
+				"first_name": "John Kristian",
+				"last_name": "Jensen",
+				"records": [
+					{
+						"course_title": "Working at Heights Refresher",
+						"course_code": "WAHR",
+						"country": "Denmark",
+						"training_provider": "Rescue Center Denmark",
+						"completed_on": "2018-01-05",
+						"valid_from": "2018-01-05",
+						"valid_until": "2020-01-22",
+						"previous_course_valid_until": "2018-01-21",
+						"status": "Record is invalid"
+					},
+					{
+						"course_title": "Manual Handling Refresher",
+						"course_code": "MHR",
+						"country": "Denmark",
+						"training_provider": "Rescue Center Denmark",
+						"completed_on": "2018-01-03",
+						"valid_from": "2018-01-03",
+						"valid_until": "2020-01-20",
+						"previous_course_valid_until": "2018-01-19",
+						"status": "Record is invalid"
+					},
+					{
+						"course_title": "First Aid Refresher",
+						"course_code": "FAR",
+						"country": "Denmark",
+						"training_provider": "Rescue Center Denmark",
+						"completed_on": "2018-01-04",
+						"valid_from": "2018-01-04",
+						"valid_until": "2020-01-21",
+						"previous_course_valid_until": "2018-01-20",
+						"status": "Record is invalid"
+					},
+					{
+						"course_title": "Fire Awareness Refresher",
+						"course_code": "FAWR",
+						"country": "Denmark",
+						"training_provider": "Rescue Center Denmark",
+						"completed_on": "2018-01-03",
+						"valid_from": "2018-01-03",
+						"valid_until": "2020-01-20",
+						"previous_course_valid_until": "2018-01-19",
+						"status": "Record is invalid"
+					},
+					{
+						"course_title": "Working at Heights",
+						"course_code": "WAH",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2020-05-15",
+						"valid_from": "2020-05-15",
+						"valid_until": "2022-05-15",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "First Aid",
+						"course_code": "FA",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2020-05-12",
+						"valid_from": "2020-05-12",
+						"valid_until": "2022-05-12",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling",
+						"course_code": "MH",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2020-05-11",
+						"valid_from": "2020-05-11",
+						"valid_until": "2022-05-11",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness",
+						"course_code": "FAW",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2020-05-11",
+						"valid_from": "2020-05-11",
+						"valid_until": "2022-05-11",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "JL347718DK",
+				"first_name": "Jens",
+				"last_name": "Lyngsoe",
+				"records": [
+					{
+						"course_title": "First Aid Refresher",
+						"course_code": "FAR",
+						"country": "Denmark",
+						"training_provider": "RelyOn Nutec",
+						"completed_on": "2019-01-17",
+						"valid_from": "2019-01-17",
+						"valid_until": "2021-02-08",
+						"previous_course_valid_until": "2019-02-07",
+						"status": "Record is invalid"
+					},
+					{
+						"course_title": "Fire Awareness Refresher",
+						"course_code": "FAWR",
+						"country": "Denmark",
+						"training_provider": "RelyOn Nutec",
+						"completed_on": "2019-01-16",
+						"valid_from": "2019-01-16",
+						"valid_until": "2021-02-11",
+						"previous_course_valid_until": "2019-02-10",
+						"status": "Record is invalid"
+					},
+					{
+						"course_title": "Manual Handling Refresher",
+						"course_code": "MHR",
+						"country": "Denmark",
+						"training_provider": "RelyOn Nutec",
+						"completed_on": "2019-01-16",
+						"valid_from": "2019-01-16",
+						"valid_until": "2021-02-11",
+						"previous_course_valid_until": "2019-02-10",
+						"status": "Record is invalid"
+					},
+					{
+						"course_title": "Working at Heights Refresher",
+						"course_code": "WAHR",
+						"country": "Denmark",
+						"training_provider": "RelyOn Nutec",
+						"completed_on": "2019-01-18",
+						"valid_from": "2019-01-18",
+						"valid_until": "2021-02-10",
+						"previous_course_valid_until": "2019-02-09",
+						"status": "Record is invalid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "JM863092GB",
+				"first_name": "john william",
+				"last_name": "muir",
+				"records": [
+					{
+						"course_title": "First Aid",
+						"course_code": "FA",
+						"country": "United Kingdom",
+						"training_provider": "Maersk Training UK Ltd",
+						"completed_on": "2020-08-12",
+						"valid_from": "2020-08-12",
+						"valid_until": "2022-08-12",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness",
+						"course_code": "FAW",
+						"country": "United Kingdom",
+						"training_provider": "Maersk Training UK Ltd",
+						"completed_on": "2020-08-11",
+						"valid_from": "2020-08-11",
+						"valid_until": "2022-08-11",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling",
+						"course_code": "MH",
+						"country": "United Kingdom",
+						"training_provider": "Maersk Training UK Ltd",
+						"completed_on": "2020-08-13",
+						"valid_from": "2020-08-13",
+						"valid_until": "2022-08-13",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights",
+						"course_code": "WAH",
+						"country": "United Kingdom",
+						"training_provider": "Maersk Training UK Ltd",
+						"completed_on": "2020-08-13",
+						"valid_from": "2020-08-13",
+						"valid_until": "2022-08-13",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "First Aid Refresher",
+						"course_code": "FAR",
+						"country": "United Kingdom",
+						"training_provider": "Capital Safety Group (Northern Europe) Ltd",
+						"completed_on": "2018-06-11",
+						"valid_from": "2018-06-11",
+						"valid_until": "2020-06-25",
+						"previous_course_valid_until": "2018-06-24",
+						"status": "Record is invalid"
+					},
+					{
+						"course_title": "Manual Handling Refresher",
+						"course_code": "MHR",
+						"country": "United Kingdom",
+						"training_provider": "Capital Safety Group (Northern Europe) Ltd",
+						"completed_on": "2018-06-12",
+						"valid_from": "2018-06-12",
+						"valid_until": "2020-06-21",
+						"previous_course_valid_until": "2018-06-20",
+						"status": "Record is invalid"
+					},
+					{
+						"course_title": "Fire Awareness Refresher",
+						"course_code": "FAWR",
+						"country": "United Kingdom",
+						"training_provider": "Capital Safety Group (Northern Europe) Ltd",
+						"completed_on": "2018-06-12",
+						"valid_from": "2018-06-12",
+						"valid_until": "2020-06-21",
+						"previous_course_valid_until": "2018-06-20",
+						"status": "Record is invalid"
+					},
+					{
+						"course_title": "Working at Heights Refresher",
+						"course_code": "WAHR",
+						"country": "United Kingdom",
+						"training_provider": "Capital Safety Group (Northern Europe) Ltd",
+						"completed_on": "2018-06-13",
+						"valid_from": "2018-06-13",
+						"valid_until": "2020-06-13",
+						"previous_course_valid_until": "2018-09-07",
+						"status": "Record is invalid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "JP066978DE",
+				"first_name": "Jonathan",
+				"last_name": "Piehler",
+				"records": [
+					{
+						"course_title": "First Aid",
+						"course_code": "FA",
+						"country": "Germany",
+						"training_provider": "RescOff GmbH",
+						"completed_on": "2020-10-15",
+						"valid_from": "2020-10-15",
+						"valid_until": "2022-10-15",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness",
+						"course_code": "FAW",
+						"country": "Germany",
+						"training_provider": "RescOff GmbH",
+						"completed_on": "2020-10-16",
+						"valid_from": "2020-10-16",
+						"valid_until": "2022-10-16",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling",
+						"course_code": "MH",
+						"country": "Germany",
+						"training_provider": "RescOff GmbH",
+						"completed_on": "2020-10-16",
+						"valid_from": "2020-10-16",
+						"valid_until": "2022-10-16",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights",
+						"course_code": "WAH",
+						"country": "Germany",
+						"training_provider": "RescOff GmbH",
+						"completed_on": "2020-10-13",
+						"valid_from": "2020-10-13",
+						"valid_until": "2022-10-13",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "KA536475DK",
+				"first_name": "Klaus Bodholdt",
+				"last_name": "Andreasen",
+				"records": [
+					{
+						"course_title": "First Aid Refresher",
+						"course_code": "FAR",
+						"country": "Denmark",
+						"training_provider": "International Wind Academy Lolland A/S",
+						"completed_on": "2019-09-03",
+						"valid_from": "2019-09-03",
+						"valid_until": "2021-10-10",
+						"previous_course_valid_until": "2019-10-09",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness Refresher",
+						"course_code": "FAWR",
+						"country": "Denmark",
+						"training_provider": "International Wind Academy Lolland A/S",
+						"completed_on": "2019-09-02",
+						"valid_from": "2019-09-02",
+						"valid_until": "2021-10-11",
+						"previous_course_valid_until": "2019-10-10",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling Refresher",
+						"course_code": "MHR",
+						"country": "Denmark",
+						"training_provider": "International Wind Academy Lolland A/S",
+						"completed_on": "2019-09-02",
+						"valid_from": "2019-09-02",
+						"valid_until": "2021-10-11",
+						"previous_course_valid_until": "2019-10-10",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights Refresher",
+						"course_code": "WAHR",
+						"country": "Denmark",
+						"training_provider": "International Wind Academy Lolland A/S",
+						"completed_on": "2019-09-04",
+						"valid_from": "2019-09-04",
+						"valid_until": "2021-10-08",
+						"previous_course_valid_until": "2019-10-07",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "MB403483RO",
+				"first_name": "Marian Laurentiu",
+				"last_name": "Baciu",
+				"records": [
+					{
+						"course_title": "First Aid",
+						"course_code": "FA",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2019-07-11",
+						"valid_from": "2019-07-11",
+						"valid_until": "2021-07-11",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness",
+						"course_code": "FAW",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2019-07-12",
+						"valid_from": "2019-07-12",
+						"valid_until": "2021-07-12",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling",
+						"course_code": "MH",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2019-07-12",
+						"valid_from": "2019-07-12",
+						"valid_until": "2021-07-12",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Sea Survival",
+						"course_code": "SS",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2019-08-21",
+						"valid_from": "2019-08-21",
+						"valid_until": "2021-08-21",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights",
+						"course_code": "WAH",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2019-07-09",
+						"valid_from": "2019-07-09",
+						"valid_until": "2021-07-09",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Advanced Rescue Training - Hub",
+						"course_code": "ART-H",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2020-09-30",
+						"valid_from": "2020-09-30",
+						"valid_until": "2022-09-30",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Singleton Advanced Rescue Training - Hub",
+						"course_code": "SART-H",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2020-09-30",
+						"valid_from": "2020-09-30",
+						"valid_until": "2120-09-30",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Advanced Rescue Training - Nacelle",
+						"course_code": "ART-N",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2020-09-30",
+						"valid_from": "2020-09-30",
+						"valid_until": "2022-09-30",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Singleton Advanced Rescue Training - Nacelle",
+						"course_code": "SART-N",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2020-09-30",
+						"valid_from": "2020-09-30",
+						"valid_until": "2120-09-30",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "MH617694DE",
+				"first_name": "Michael",
+				"last_name": "Horst",
+				"records": [
+					{
+						"course_title": "First Aid",
+						"course_code": "FA",
+						"country": "Germany",
+						"training_provider": "3M  - Capital Safety Training Center - Fall Protection",
+						"completed_on": "2020-10-15",
+						"valid_from": "2020-10-15",
+						"valid_until": "2022-10-15",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "First Aid Refresher",
+						"course_code": "FAR",
+						"country": "Germany",
+						"training_provider": "3M  - Capital Safety Training Center - Fall Protection",
+						"completed_on": "2019-03-18",
+						"valid_from": "2019-03-18",
+						"valid_until": "2021-03-18",
+						"previous_course_valid_until": "2019-10-10",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness",
+						"course_code": "FAW",
+						"country": "Germany",
+						"training_provider": "3M  - Capital Safety Training Center - Fall Protection",
+						"completed_on": "2020-10-16",
+						"valid_from": "2020-10-16",
+						"valid_until": "2022-10-16",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights",
+						"course_code": "WAH",
+						"country": "Germany",
+						"training_provider": "3M  - Capital Safety Training Center - Fall Protection",
+						"completed_on": "2020-10-13",
+						"valid_from": "2020-10-13",
+						"valid_until": "2022-10-13",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights Refresher",
+						"course_code": "WAHR",
+						"country": "Germany",
+						"training_provider": "3M  - Capital Safety Training Center - Fall Protection",
+						"completed_on": "2018-01-11",
+						"valid_from": "2018-01-11",
+						"valid_until": "2020-01-11",
+						"previous_course_valid_until": "2019-01-27",
+						"status": "Record is invalid"
+					},
+					{
+						"course_title": "Manual Handling",
+						"course_code": "MH",
+						"country": "Germany",
+						"training_provider": "3M  - Capital Safety Training Center - Fall Protection",
+						"completed_on": "2020-10-16",
+						"valid_from": "2020-10-16",
+						"valid_until": "2022-10-16",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling Refresher",
+						"course_code": "MHR",
+						"country": "Germany",
+						"training_provider": "OffTEC Base GmbH & Co. KG",
+						"completed_on": "2019-08-27",
+						"valid_from": "2019-08-27",
+						"valid_until": "2021-09-05",
+						"previous_course_valid_until": "2019-09-04",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Sea Survival Refresher",
+						"course_code": "SSR",
+						"country": "Germany",
+						"training_provider": "OffTEC Base GmbH & Co. KG",
+						"completed_on": "2019-08-23",
+						"valid_from": "2019-08-23",
+						"valid_until": "2021-09-05",
+						"previous_course_valid_until": "2019-09-04",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness Refresher",
+						"course_code": "FAWR",
+						"country": "Germany",
+						"training_provider": "OffTEC Base GmbH & Co. KG",
+						"completed_on": "2019-08-27",
+						"valid_from": "2019-08-27",
+						"valid_until": "2021-09-05",
+						"previous_course_valid_until": "2019-09-04",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "NC889948GB",
+				"first_name": "Nikolaos",
+				"last_name": "Cooper",
+				"records": [
+					{
+						"course_title": "First Aid Refresher",
+						"course_code": "FAR",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2019-05-15",
+						"valid_from": "2019-05-15",
+						"valid_until": "2021-07-03",
+						"previous_course_valid_until": "2019-07-02",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness Refresher",
+						"course_code": "FAWR",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2019-05-14",
+						"valid_from": "2019-05-14",
+						"valid_until": "2021-07-02",
+						"previous_course_valid_until": "2019-07-01",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling Refresher",
+						"course_code": "MHR",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2019-05-14",
+						"valid_from": "2019-05-14",
+						"valid_until": "2021-07-02",
+						"previous_course_valid_until": "2019-07-01",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights Refresher",
+						"course_code": "WAHR",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2019-05-13",
+						"valid_from": "2019-05-13",
+						"valid_until": "2021-07-04",
+						"previous_course_valid_until": "2019-07-03",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "NJ990042DK",
+				"first_name": "Nicolai Dan",
+				"last_name": "Jørgensen",
+				"records": [
+					{
+						"course_title": "First Aid Refresher",
+						"course_code": "FAR",
+						"country": "Denmark",
+						"training_provider": "Rescue Center Denmark",
+						"completed_on": "2019-03-27",
+						"valid_from": "2019-03-27",
+						"valid_until": "2021-04-29",
+						"previous_course_valid_until": "2019-04-28",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness Refresher",
+						"course_code": "FAWR",
+						"country": "Denmark",
+						"training_provider": "Rescue Center Denmark",
+						"completed_on": "2019-03-26",
+						"valid_from": "2019-03-26",
+						"valid_until": "2021-04-25",
+						"previous_course_valid_until": "2019-04-24",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling Refresher",
+						"course_code": "MHR",
+						"country": "Denmark",
+						"training_provider": "Rescue Center Denmark",
+						"completed_on": "2019-03-26",
+						"valid_from": "2019-03-26",
+						"valid_until": "2021-04-25",
+						"previous_course_valid_until": "2019-04-24",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights Refresher",
+						"course_code": "WAHR",
+						"country": "Denmark",
+						"training_provider": "Rescue Center Denmark",
+						"completed_on": "2019-03-28",
+						"valid_from": "2019-03-28",
+						"valid_until": "2021-04-26",
+						"previous_course_valid_until": "2019-04-25",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "RF868888PT",
+				"first_name": "Rui Filipe",
+				"last_name": "Fidalgo Faria",
+				"records": [
+					{
+						"course_title": "First Aid Refresher",
+						"course_code": "FAR",
+						"country": "Denmark",
+						"training_provider": "Rescue Center Denmark",
+						"completed_on": "2018-06-27",
+						"valid_from": "2018-06-27",
+						"valid_until": "2020-08-24",
+						"previous_course_valid_until": "2018-08-23",
+						"status": "Record is invalid"
+					},
+					{
+						"course_title": "First Aid Refresher",
+						"course_code": "FAR",
+						"country": "Australia",
+						"training_provider": "Skylar Safety",
+						"completed_on": "2019-09-09",
+						"valid_from": "2019-09-09",
+						"valid_until": "2021-09-09",
+						"previous_course_valid_until": "2020-08-01",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness Refresher",
+						"course_code": "FAWR",
+						"country": "Australia",
+						"training_provider": "Skylar Safety",
+						"completed_on": "2019-09-13",
+						"valid_from": "2019-09-13",
+						"valid_until": "2021-09-13",
+						"previous_course_valid_until": "2020-08-01",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling Refresher",
+						"course_code": "MHR",
+						"country": "Australia",
+						"training_provider": "Skylar Safety",
+						"completed_on": "2019-09-11",
+						"valid_from": "2019-09-11",
+						"valid_until": "2021-09-11",
+						"previous_course_valid_until": "2020-08-01",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights Refresher",
+						"course_code": "WAHR",
+						"country": "Australia",
+						"training_provider": "Skylar Safety",
+						"completed_on": "2019-09-11",
+						"valid_from": "2019-09-11",
+						"valid_until": "2021-09-11",
+						"previous_course_valid_until": "2020-08-01",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "RH852257DK",
+				"first_name": "René Broholm",
+				"last_name": "Hansen",
+				"records": [
+					{
+						"course_title": "First Aid Refresher",
+						"course_code": "FAR",
+						"country": "Denmark",
+						"training_provider": "Global Wind Academy",
+						"completed_on": "2019-02-21",
+						"valid_from": "2019-02-21",
+						"valid_until": "2021-02-21",
+						"previous_course_valid_until": "2019-04-24",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness Refresher",
+						"course_code": "FAWR",
+						"country": "Denmark",
+						"training_provider": "Global Wind Academy",
+						"completed_on": "2019-02-22",
+						"valid_from": "2019-02-22",
+						"valid_until": "2021-02-22",
+						"previous_course_valid_until": "2019-04-24",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling Refresher",
+						"course_code": "MHR",
+						"country": "Denmark",
+						"training_provider": "Global Wind Academy",
+						"completed_on": "2019-02-22",
+						"valid_from": "2019-02-22",
+						"valid_until": "2021-02-22",
+						"previous_course_valid_until": "2019-04-24",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights Refresher",
+						"course_code": "WAHR",
+						"country": "Denmark",
+						"training_provider": "Global Wind Academy",
+						"completed_on": "2019-02-20",
+						"valid_from": "2019-02-20",
+						"valid_until": "2021-02-20",
+						"previous_course_valid_until": "2019-04-24",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "RK310901IN",
+				"first_name": "Ramjan",
+				"last_name": "K",
+				"records": [
+					{
+						"course_title": "First Aid",
+						"course_code": "FA",
+						"country": "India",
+						"training_provider": "USHA FIRE SAFETY EQUIPMENT PVT LTD.",
+						"completed_on": "2019-12-06",
+						"valid_from": "2019-12-06",
+						"valid_until": "2021-12-06",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness",
+						"course_code": "FAW",
+						"country": "India",
+						"training_provider": "USHA FIRE SAFETY EQUIPMENT PVT LTD.",
+						"completed_on": "2019-12-07",
+						"valid_from": "2019-12-07",
+						"valid_until": "2021-12-07",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling",
+						"course_code": "MH",
+						"country": "India",
+						"training_provider": "USHA FIRE SAFETY EQUIPMENT PVT LTD.",
+						"completed_on": "2019-12-07",
+						"valid_from": "2019-12-07",
+						"valid_until": "2021-12-07",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights",
+						"course_code": "WAH",
+						"country": "India",
+						"training_provider": "Vestas Wind Technology India Private Limited",
+						"completed_on": "2019-12-24",
+						"valid_from": "2019-12-24",
+						"valid_until": "2021-12-24",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "RM468631DK",
+				"first_name": "Rune",
+				"last_name": "Madsen Bek",
+				"records": [
+					{
+						"course_title": "First Aid",
+						"course_code": "FA",
+						"country": "Denmark",
+						"training_provider": "International Wind Academy Lolland A/S",
+						"completed_on": "2019-09-04",
+						"valid_from": "2019-09-04",
+						"valid_until": "2021-09-04",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness",
+						"course_code": "FAW",
+						"country": "Denmark",
+						"training_provider": "International Wind Academy Lolland A/S",
+						"completed_on": "2019-09-02",
+						"valid_from": "2019-09-02",
+						"valid_until": "2021-09-02",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling",
+						"course_code": "MH",
+						"country": "Denmark",
+						"training_provider": "International Wind Academy Lolland A/S",
+						"completed_on": "2019-09-02",
+						"valid_from": "2019-09-02",
+						"valid_until": "2021-09-02",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights",
+						"course_code": "WAH",
+						"country": "Denmark",
+						"training_provider": "International Wind Academy Lolland A/S",
+						"completed_on": "2019-09-06",
+						"valid_from": "2019-09-06",
+						"valid_until": "2021-09-06",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Mechanical",
+						"course_code": "BTTM",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2019-08-20",
+						"valid_from": "2019-08-20",
+						"valid_until": "2119-08-20",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Electrical",
+						"course_code": "BTTE",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2019-08-22",
+						"valid_from": "2019-08-22",
+						"valid_until": "2119-08-22",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Hydraulics",
+						"course_code": "BTTH",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2019-08-23",
+						"valid_from": "2019-08-23",
+						"valid_until": "2119-08-23",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "RN779934GB",
+				"first_name": "Ryan",
+				"last_name": "Notman",
+				"records": [
+					{
+						"course_title": "First Aid Refresher",
+						"course_code": "FAR",
+						"country": "United Kingdom",
+						"training_provider": "Maersk Training UK Ltd",
+						"completed_on": "2020-02-12",
+						"valid_from": "2020-02-12",
+						"valid_until": "2022-03-20",
+						"previous_course_valid_until": "2020-03-18",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness Refresher",
+						"course_code": "FAWR",
+						"country": "United Kingdom",
+						"training_provider": "Maersk Training UK Ltd",
+						"completed_on": "2020-02-13",
+						"valid_from": "2020-02-13",
+						"valid_until": "2022-03-19",
+						"previous_course_valid_until": "2020-03-17",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling Refresher",
+						"course_code": "MHR",
+						"country": "United Kingdom",
+						"training_provider": "Maersk Training UK Ltd",
+						"completed_on": "2020-02-10",
+						"valid_from": "2020-02-10",
+						"valid_until": "2022-03-17",
+						"previous_course_valid_until": "2020-03-15",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights Refresher",
+						"course_code": "WAHR",
+						"country": "United Kingdom",
+						"training_provider": "Maersk Training UK Ltd",
+						"completed_on": "2020-02-10",
+						"valid_from": "2020-02-10",
+						"valid_until": "2022-03-17",
+						"previous_course_valid_until": "2020-03-15",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Advanced Rescue Training - Hub",
+						"course_code": "ART-H",
+						"country": "United Kingdom",
+						"training_provider": "Maersk Training UK Ltd",
+						"completed_on": "2020-02-17",
+						"valid_from": "2020-02-17",
+						"valid_until": "2022-02-17",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "SM372536DK",
+				"first_name": "Søren",
+				"last_name": "Moesgaard Brandt Jensen",
+				"records": [
+					{
+						"course_title": "First Aid",
+						"course_code": "FA",
+						"country": "Denmark",
+						"training_provider": "Rescue Center Denmark",
+						"completed_on": "2019-06-07",
+						"valid_from": "2019-06-07",
+						"valid_until": "2021-06-07",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness",
+						"course_code": "FAW",
+						"country": "Denmark",
+						"training_provider": "Rescue Center Denmark",
+						"completed_on": "2019-06-03",
+						"valid_from": "2019-06-03",
+						"valid_until": "2021-06-03",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling",
+						"course_code": "MH",
+						"country": "Denmark",
+						"training_provider": "Rescue Center Denmark",
+						"completed_on": "2019-06-03",
+						"valid_from": "2019-06-03",
+						"valid_until": "2021-06-03",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights",
+						"course_code": "WAH",
+						"country": "Denmark",
+						"training_provider": "Rescue Center Denmark",
+						"completed_on": "2019-06-05",
+						"valid_from": "2019-06-05",
+						"valid_until": "2021-06-05",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Mechanical",
+						"course_code": "BTTM",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2019-06-18",
+						"valid_from": "2019-06-18",
+						"valid_until": "2119-06-18",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Electrical",
+						"course_code": "BTTE",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2019-06-20",
+						"valid_from": "2019-06-20",
+						"valid_until": "2119-06-20",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Hydraulics",
+						"course_code": "BTTH",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2019-06-21",
+						"valid_from": "2019-06-21",
+						"valid_until": "2119-06-21",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "SP066032DE",
+				"first_name": "Simon",
+				"last_name": "Page",
+				"records": [
+					{
+						"course_title": "First Aid",
+						"course_code": "FA",
+						"country": "Germany",
+						"training_provider": "RescOff GmbH",
+						"completed_on": "2020-10-15",
+						"valid_from": "2020-10-15",
+						"valid_until": "2022-10-15",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness",
+						"course_code": "FAW",
+						"country": "Germany",
+						"training_provider": "RescOff GmbH",
+						"completed_on": "2020-10-16",
+						"valid_from": "2020-10-16",
+						"valid_until": "2022-10-16",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling",
+						"course_code": "MH",
+						"country": "Germany",
+						"training_provider": "RescOff GmbH",
+						"completed_on": "2020-10-16",
+						"valid_from": "2020-10-16",
+						"valid_until": "2022-10-16",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights",
+						"course_code": "WAH",
+						"country": "Germany",
+						"training_provider": "RescOff GmbH",
+						"completed_on": "2020-10-13",
+						"valid_from": "2020-10-13",
+						"valid_until": "2022-10-13",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "SS262530GB",
+				"first_name": "Scott",
+				"last_name": "Stanford",
+				"records": [
+					{
+						"course_title": "Working at Heights",
+						"course_code": "WAH",
+						"country": "United Kingdom",
+						"training_provider": "The heightec Group Limited",
+						"completed_on": "2018-10-02",
+						"valid_from": "2018-10-02",
+						"valid_until": "2020-10-02",
+						"previous_course_valid_until": "",
+						"status": "Record is invalid"
+					},
+					{
+						"course_title": "First Aid",
+						"course_code": "FA",
+						"country": "United Kingdom",
+						"training_provider": "Capital Safety Group (Northern Europe) Ltd",
+						"completed_on": "2018-09-25",
+						"valid_from": "2018-09-25",
+						"valid_until": "2020-09-25",
+						"previous_course_valid_until": "",
+						"status": "Record is invalid"
+					},
+					{
+						"course_title": "Fire Awareness",
+						"course_code": "FAW",
+						"country": "United Kingdom",
+						"training_provider": "Capital Safety Group (Northern Europe) Ltd",
+						"completed_on": "2018-11-28",
+						"valid_from": "2018-11-28",
+						"valid_until": "2020-11-28",
+						"previous_course_valid_until": "",
+						"status": "Extended refresher period"
+					},
+					{
+						"course_title": "Manual Handling",
+						"course_code": "MH",
+						"country": "United Kingdom",
+						"training_provider": "Capital Safety Group (Northern Europe) Ltd",
+						"completed_on": "2018-11-28",
+						"valid_from": "2018-11-28",
+						"valid_until": "2020-11-28",
+						"previous_course_valid_until": "",
+						"status": "Extended refresher period"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "SS660232AU",
+				"first_name": "Stephen",
+				"last_name": "Schlink",
+				"records": [
+					{
+						"course_title": "First Aid",
+						"course_code": "FA",
+						"country": "Australia",
+						"training_provider": "Thomson Bridge Pty Ltd",
+						"completed_on": "2018-03-29",
+						"valid_from": "2018-03-29",
+						"valid_until": "2020-03-29",
+						"previous_course_valid_until": "",
+						"status": "Record is invalid"
+					},
+					{
+						"course_title": "First Aid Refresher",
+						"course_code": "FAR",
+						"country": "Australia",
+						"training_provider": "Thomson Bridge Pty Ltd",
+						"completed_on": "2019-03-29",
+						"valid_from": "2019-03-29",
+						"valid_until": "2021-03-29",
+						"previous_course_valid_until": "2020-03-29",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness",
+						"course_code": "FAW",
+						"country": "Australia",
+						"training_provider": "Thomson Bridge Pty Ltd",
+						"completed_on": "2019-03-29",
+						"valid_from": "2019-03-29",
+						"valid_until": "2021-03-29",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling",
+						"course_code": "MH",
+						"country": "Australia",
+						"training_provider": "Thomson Bridge Pty Ltd",
+						"completed_on": "2019-03-29",
+						"valid_from": "2019-03-29",
+						"valid_until": "2021-03-29",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights",
+						"course_code": "WAH",
+						"country": "Australia",
+						"training_provider": "Thomson Bridge Pty Ltd",
+						"completed_on": "2019-03-29",
+						"valid_from": "2019-03-29",
+						"valid_until": "2021-03-29",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "TA636181DK",
+				"first_name": "Thomas Trærup",
+				"last_name": "Andersen",
+				"records": [
+					{
+						"course_title": "First Aid Refresher",
+						"course_code": "FAR",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2019-05-08",
+						"valid_from": "2019-05-08",
+						"valid_until": "2021-06-19",
+						"previous_course_valid_until": "2019-06-18",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness Refresher",
+						"course_code": "FAWR",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2019-05-07",
+						"valid_from": "2019-05-07",
+						"valid_until": "2021-06-18",
+						"previous_course_valid_until": "2019-06-17",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling Refresher",
+						"course_code": "MHR",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2019-05-07",
+						"valid_from": "2019-05-07",
+						"valid_until": "2021-06-18",
+						"previous_course_valid_until": "2019-06-17",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights Refresher",
+						"course_code": "WAHR",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2018-12-05",
+						"valid_from": "2018-12-05",
+						"valid_until": "2020-12-05",
+						"previous_course_valid_until": "2019-06-16",
+						"status": "Extended refresher period"
+					},
+					{
+						"course_title": "Mechanical",
+						"course_code": "BTTM",
+						"country": "Denmark",
+						"training_provider": "Siemens Gamesa Renewable Energy A/S",
+						"completed_on": "2019-02-08",
+						"valid_from": "2019-02-08",
+						"valid_until": "2119-02-08",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Electrical",
+						"course_code": "BTTE",
+						"country": "Denmark",
+						"training_provider": "Siemens Gamesa Renewable Energy A/S",
+						"completed_on": "2019-02-08",
+						"valid_from": "2019-02-08",
+						"valid_until": "2119-02-08",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Hydraulics",
+						"course_code": "BTTH",
+						"country": "Denmark",
+						"training_provider": "Siemens Gamesa Renewable Energy A/S",
+						"completed_on": "2019-02-08",
+						"valid_from": "2019-02-08",
+						"valid_until": "2119-02-08",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Advanced Rescue Training - Hub",
+						"course_code": "ART-H",
+						"country": "Denmark",
+						"training_provider": "Siemens Gamesa Renewable Energy A/S",
+						"completed_on": "2018-02-21",
+						"valid_from": "2018-02-21",
+						"valid_until": "2020-02-21",
+						"previous_course_valid_until": "",
+						"status": "Record is invalid"
+					},
+					{
+						"course_title": "Singleton Advanced Rescue Training - Hub",
+						"course_code": "SART-H",
+						"country": "Denmark",
+						"training_provider": "Siemens Gamesa Renewable Energy A/S",
+						"completed_on": "2018-02-21",
+						"valid_from": "2018-02-21",
+						"valid_until": "2118-02-21",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Advanced Rescue Training - Nacelle",
+						"course_code": "ART-N",
+						"country": "Denmark",
+						"training_provider": "Siemens Gamesa Renewable Energy A/S",
+						"completed_on": "2018-02-21",
+						"valid_from": "2018-02-21",
+						"valid_until": "2020-02-21",
+						"previous_course_valid_until": "",
+						"status": "Record is invalid"
+					},
+					{
+						"course_title": "Singleton Advanced Rescue Training - Nacelle",
+						"course_code": "SART-N",
+						"country": "Denmark",
+						"training_provider": "Siemens Gamesa Renewable Energy A/S",
+						"completed_on": "2018-02-21",
+						"valid_from": "2018-02-21",
+						"valid_until": "2118-02-21",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "TB707260DK",
+				"first_name": "Thomas",
+				"last_name": "Borre larsen",
+				"records": [
+					{
+						"course_title": "First Aid",
+						"course_code": "FA",
+						"country": "Denmark",
+						"training_provider": "International Wind Academy Lolland A/S",
+						"completed_on": "2019-09-04",
+						"valid_from": "2019-09-04",
+						"valid_until": "2021-09-04",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness",
+						"course_code": "FAW",
+						"country": "Denmark",
+						"training_provider": "International Wind Academy Lolland A/S",
+						"completed_on": "2019-09-02",
+						"valid_from": "2019-09-02",
+						"valid_until": "2021-09-02",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling",
+						"course_code": "MH",
+						"country": "Denmark",
+						"training_provider": "International Wind Academy Lolland A/S",
+						"completed_on": "2019-09-02",
+						"valid_from": "2019-09-02",
+						"valid_until": "2021-09-02",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights",
+						"course_code": "WAH",
+						"country": "Denmark",
+						"training_provider": "International Wind Academy Lolland A/S",
+						"completed_on": "2019-09-06",
+						"valid_from": "2019-09-06",
+						"valid_until": "2021-09-06",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Mechanical",
+						"course_code": "BTTM",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2019-08-20",
+						"valid_from": "2019-08-20",
+						"valid_until": "2119-08-20",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Mechanical",
+						"course_code": "BTTM",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2019-10-11",
+						"valid_from": "2019-10-11",
+						"valid_until": "2119-10-11",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Electrical",
+						"course_code": "BTTE",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2019-08-22",
+						"valid_from": "2019-08-22",
+						"valid_until": "2119-08-22",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Electrical",
+						"course_code": "BTTE",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2019-10-08",
+						"valid_from": "2019-10-08",
+						"valid_until": "2119-10-08",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Hydraulics",
+						"course_code": "BTTH",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2019-08-23",
+						"valid_from": "2019-08-23",
+						"valid_until": "2119-08-23",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Hydraulics",
+						"course_code": "BTTH",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2019-10-09",
+						"valid_from": "2019-10-09",
+						"valid_until": "2119-10-09",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "TK061527DK",
+				"first_name": "Thomas",
+				"last_name": "Kragh Johnsen",
+				"records": [
+					{
+						"course_title": "First Aid",
+						"course_code": "FA",
+						"country": "Denmark",
+						"training_provider": "Rescue Center Denmark",
+						"completed_on": "2019-09-06",
+						"valid_from": "2019-09-06",
+						"valid_until": "2021-09-06",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness",
+						"course_code": "FAW",
+						"country": "Denmark",
+						"training_provider": "Rescue Center Denmark",
+						"completed_on": "2019-09-02",
+						"valid_from": "2019-09-02",
+						"valid_until": "2021-09-02",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling",
+						"course_code": "MH",
+						"country": "Denmark",
+						"training_provider": "Rescue Center Denmark",
+						"completed_on": "2019-09-02",
+						"valid_from": "2019-09-02",
+						"valid_until": "2021-09-02",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights",
+						"course_code": "WAH",
+						"country": "Denmark",
+						"training_provider": "Rescue Center Denmark",
+						"completed_on": "2019-09-04",
+						"valid_from": "2019-09-04",
+						"valid_until": "2021-09-04",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Mechanical",
+						"course_code": "BTTM",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2019-08-20",
+						"valid_from": "2019-08-20",
+						"valid_until": "2119-08-20",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Electrical",
+						"course_code": "BTTE",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2019-08-22",
+						"valid_from": "2019-08-22",
+						"valid_until": "2119-08-22",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Hydraulics",
+						"course_code": "BTTH",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2019-08-23",
+						"valid_from": "2019-08-23",
+						"valid_until": "2119-08-23",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "TL079069DE",
+				"first_name": "Tony",
+				"last_name": "Lippstreu",
+				"records": [
+					{
+						"course_title": "First Aid",
+						"course_code": "FA",
+						"country": "Germany",
+						"training_provider": "3M  - Capital Safety Training Center - Fall Protection",
+						"completed_on": "2020-11-12",
+						"valid_from": "2020-11-12",
+						"valid_until": "2022-11-12",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness",
+						"course_code": "FAW",
+						"country": "Germany",
+						"training_provider": "3M  - Capital Safety Training Center - Fall Protection",
+						"completed_on": "2020-11-13",
+						"valid_from": "2020-11-13",
+						"valid_until": "2022-11-13",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling",
+						"course_code": "MH",
+						"country": "Germany",
+						"training_provider": "3M  - Capital Safety Training Center - Fall Protection",
+						"completed_on": "2020-11-13",
+						"valid_from": "2020-11-13",
+						"valid_until": "2022-11-13",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights",
+						"course_code": "WAH",
+						"country": "Germany",
+						"training_provider": "3M  - Capital Safety Training Center - Fall Protection",
+						"completed_on": "2020-11-10",
+						"valid_from": "2020-11-10",
+						"valid_until": "2022-11-10",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "TL477387DK",
+				"first_name": "Thomas Bøgelund",
+				"last_name": "Larsen",
+				"records": [
+					{
+						"course_title": "First Aid",
+						"course_code": "FA",
+						"country": "Denmark",
+						"training_provider": "Global Wind Academy",
+						"completed_on": "2019-09-19",
+						"valid_from": "2019-09-19",
+						"valid_until": "2021-09-19",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness",
+						"course_code": "FAW",
+						"country": "Denmark",
+						"training_provider": "Global Wind Academy",
+						"completed_on": "2019-09-20",
+						"valid_from": "2019-09-20",
+						"valid_until": "2021-09-20",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling",
+						"course_code": "MH",
+						"country": "Denmark",
+						"training_provider": "Global Wind Academy",
+						"completed_on": "2019-09-20",
+						"valid_from": "2019-09-20",
+						"valid_until": "2021-09-20",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights",
+						"course_code": "WAH",
+						"country": "Denmark",
+						"training_provider": "Global Wind Academy",
+						"completed_on": "2019-09-18",
+						"valid_from": "2019-09-18",
+						"valid_until": "2021-09-18",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "true",
+				"delegate_id": "TS972716DK",
+				"first_name": "Thomas",
+				"last_name": "Storinnggard",
+				"records": [
+					{
+						"course_title": "Fire Awareness",
+						"course_code": "FAW",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2018-01-26",
+						"valid_from": "2018-01-26",
+						"valid_until": "2020-01-26",
+						"previous_course_valid_until": "",
+						"status": "Record is invalid"
+					},
+					{
+						"course_title": "Manual Handling",
+						"course_code": "MH",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2018-01-26",
+						"valid_from": "2018-01-26",
+						"valid_until": "2020-01-26",
+						"previous_course_valid_until": "",
+						"status": "Record is invalid"
+					},
+					{
+						"course_title": "Sea Survival",
+						"course_code": "SS",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2019-03-04",
+						"valid_from": "2019-03-04",
+						"valid_until": "2021-03-04",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights",
+						"course_code": "WAH",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2018-01-25",
+						"valid_from": "2018-01-25",
+						"valid_until": "2020-01-25",
+						"previous_course_valid_until": "",
+						"status": "Record is invalid"
+					},
+					{
+						"course_title": "First Aid",
+						"course_code": "FA",
+						"country": "Denmark",
+						"training_provider": "Maersk Training",
+						"completed_on": "2018-01-23",
+						"valid_from": "2018-01-23",
+						"valid_until": "2020-01-23",
+						"previous_course_valid_until": "",
+						"status": "Record is invalid"
+					},
+					{
+						"course_title": "First Aid Refresher",
+						"course_code": "FAR",
+						"country": "Denmark",
+						"training_provider": "Global Wind Academy",
+						"completed_on": "2019-12-05",
+						"valid_from": "2019-12-05",
+						"valid_until": "2022-01-24",
+						"previous_course_valid_until": "2020-01-23",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights Refresher",
+						"course_code": "WAHR",
+						"country": "Denmark",
+						"training_provider": "Global Wind Academy",
+						"completed_on": "2019-12-04",
+						"valid_from": "2019-12-04",
+						"valid_until": "2022-01-26",
+						"previous_course_valid_until": "2020-01-25",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling Refresher",
+						"course_code": "MHR",
+						"country": "Denmark",
+						"training_provider": "Global Wind Academy",
+						"completed_on": "2019-12-06",
+						"valid_from": "2019-12-06",
+						"valid_until": "2022-01-27",
+						"previous_course_valid_until": "2020-01-26",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness Refresher",
+						"course_code": "FAWR",
+						"country": "Denmark",
+						"training_provider": "Global Wind Academy",
+						"completed_on": "2019-12-06",
+						"valid_from": "2019-12-06",
+						"valid_until": "2022-01-27",
+						"previous_course_valid_until": "2020-01-26",
+						"status": "Record is valid"
+					}
+				]
+			},
+			{
+				"found": "flase",
+				"delegate_id": "CD297583RO",
+				"first_name": "Senthilkumar",
+				"last_name": "Selvaraj",
+				"records": ""
+			},
+			{
+				"found": "true",
+				"delegate_id": "VS094811RO",
+				"first_name": "Victor Vasile",
+				"last_name": "Simiuc",
+				"records": [
+					{
+						"course_title": "Advanced Rescue Training - Hub",
+						"course_code": "ART-H",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2020-09-30",
+						"valid_from": "2020-09-30",
+						"valid_until": "2022-09-30",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Singleton Advanced Rescue Training - Hub",
+						"course_code": "SART-H",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2020-09-30",
+						"valid_from": "2020-09-30",
+						"valid_until": "2120-09-30",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Advanced Rescue Training - Nacelle",
+						"course_code": "ART-N",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2020-09-30",
+						"valid_from": "2020-09-30",
+						"valid_until": "2022-09-30",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Singleton Advanced Rescue Training - Nacelle",
+						"course_code": "SART-N",
+						"country": "Romania",
+						"training_provider": "S.C. WIND POWER ENERGY S.R.L (WPE)",
+						"completed_on": "2020-09-30",
+						"valid_from": "2020-09-30",
+						"valid_until": "2120-09-30",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "First Aid",
+						"course_code": "FA",
+						"country": "Romania",
+						"training_provider": "Vestas CEU Romania SRL",
+						"completed_on": "2020-09-01",
+						"valid_from": "2020-09-01",
+						"valid_until": "2022-09-01",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Fire Awareness",
+						"course_code": "FAW",
+						"country": "Romania",
+						"training_provider": "Vestas CEU Romania SRL",
+						"completed_on": "2020-09-04",
+						"valid_from": "2020-09-04",
+						"valid_until": "2022-09-04",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Manual Handling",
+						"course_code": "MH",
+						"country": "Romania",
+						"training_provider": "Vestas CEU Romania SRL",
+						"completed_on": "2020-09-04",
+						"valid_from": "2020-09-04",
+						"valid_until": "2022-09-04",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					},
+					{
+						"course_title": "Working at Heights",
+						"course_code": "WAH",
+						"country": "Romania",
+						"training_provider": "Vestas CEU Romania SRL",
+						"completed_on": "2020-09-03",
+						"valid_from": "2020-09-03",
+						"valid_until": "2022-09-03",
+						"previous_course_valid_until": "",
+						"status": "Record is valid"
+					}
+				]
+			}
+		]
+	}
+}
